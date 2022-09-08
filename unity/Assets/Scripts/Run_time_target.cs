@@ -68,7 +68,7 @@ public class Run_time_target : MonoBehaviour
         //Debug.Log("Target handler" + target_handler);
         //Debug.Log("ALL COMPONENTS --> " + target.GetComponents(typeof(MonoBehaviour)));
         //Debug.Log("Target found" + target_handler.OnTargetFound);
-        target_handler.OnTargetFound.AddListener(sd.generate);
+        //target_handler.OnTargetFound.AddListener(sd.generate);
         target_handler.OnTargetFound.AddListener(Ping);
 
         // Add Input Field

@@ -28,17 +28,11 @@ public class Stable_diffusion : MonoBehaviour
     }
 
     // Update is called once per frame
-    public void generate()
+    public void generate(string text_generation_input="")
     {
         this.text_generation_input = "A ripped fresco of the Madonna and Child and saints from the neck down.";
         Debug.Log("GENERATEEEE --> " +  this.text_generation_input);
-        //keyboard = TouchScreenKeyboard.Open("", TouchScreenKeyboardType.Default);
         SceneManager.LoadScene("Stable_diffusion_game", LoadSceneMode.Single);
-        // if (!this.called)
-        // {
-        //     StartCoroutine(this.generate_async(this.text_generation_input));
-        //     this.called = true;
-        // }
     }
 
 
