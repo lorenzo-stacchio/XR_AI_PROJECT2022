@@ -84,12 +84,9 @@ public class Run_time_target : MonoBehaviour
             Debug.Log(p.Key.ToString());
             DefaultObserverEventHandler target_handler = p.Value.GetComponent<DefaultObserverEventHandler>();
             // loop through both
-            Debug.Log("Update target handler --> " + target_handler.OnTargetFound);
-            Debug.Log("Update target handler2 --> " + (target_handler.GetType().GetProperty("OnTargetFound")!= null));
-            Debug.Log("Update ALL COMPONENTS --> " + p.Value.GetComponents(typeof(MonoBehaviour)));
-
-
-
+            // Debug.Log("Update target handler --> " + target_handler.OnTargetFound);
+            // Debug.Log("Update target handler2 --> " + (target_handler.GetType().GetProperty("OnTargetFound")!= null));
+            // Debug.Log("Update ALL COMPONENTS --> " + p.Value.GetComponents(typeof(MonoBehaviour)));
         }
 
         //Debug.Log("Target found" + target_handler.OnTargetFound);
@@ -98,6 +95,6 @@ public class Run_time_target : MonoBehaviour
 
     public void Ping()
     {
-        Debug.Log("PONG");
+        //Debug.Log("PONG");
     }
 }
