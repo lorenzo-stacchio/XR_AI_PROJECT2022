@@ -5,8 +5,6 @@ using Vuforia;
 
 public class Run_time_target : MonoBehaviour
 {
-
-
     public Texture2D textureFile;
     public float printedTargetSize;
     public string targetName;
