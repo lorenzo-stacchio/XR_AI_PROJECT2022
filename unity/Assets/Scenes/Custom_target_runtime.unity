@@ -441,7 +441,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f3661673da787f43a2f8c2fbd2de090, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textureFile: {fileID: 2800000, guid: d10724e7a3f0ef542ae57ddc0ad60043, type: 3}
+  textureFile: {fileID: 2800000, guid: dee00da107cc4cf4b9c5a5d7e537c518, type: 3}
   printedTargetSize: 0.1
   targetName: brush
   to_spawn: {fileID: 9147662969504258314, guid: 732ed3cde6c5c9e46891ea5a4be9c4b5, type: 3}
