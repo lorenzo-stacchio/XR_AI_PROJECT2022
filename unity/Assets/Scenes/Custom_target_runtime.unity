@@ -183,6 +183,10 @@ PrefabInstance:
       propertyPath: manager_owner
       value: 
       objectReference: {fileID: 284662082}
+    - target: {fileID: 219098942714632700, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: url
+      value: https://www.museimatera.it/museo-ridola/
+      objectReference: {fileID: 0}
     - target: {fileID: 4477933081721608165, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: manager_owner
       value: 
@@ -1835,6 +1839,10 @@ PrefabInstance:
       propertyPath: manager_owner
       value: 
       objectReference: {fileID: 1155175841}
+    - target: {fileID: 219098942714632700, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: url
+      value: https://www.museimatera.it/museo-ridola/
+      objectReference: {fileID: 0}
     - target: {fileID: 4477933081721608165, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: manager_owner
       value: 
