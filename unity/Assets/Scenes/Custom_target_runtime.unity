@@ -175,6 +175,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 746769435}
     m_Modifications:
+    - target: {fileID: 219098941417244892, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: fb8750a3f93fab845b9a28dc0266f258, type: 3}
     - target: {fileID: 219098941994371252, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: manager_owner
       value: 
@@ -1617,6 +1621,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2075007407}
     m_Modifications:
+    - target: {fileID: 219098941417244892, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: fb8750a3f93fab845b9a28dc0266f258, type: 3}
     - target: {fileID: 219098941994371252, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: manager_owner
       value: 
@@ -1831,6 +1839,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 587078251}
     m_Modifications:
+    - target: {fileID: 219098941417244892, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: fb8750a3f93fab845b9a28dc0266f258, type: 3}
     - target: {fileID: 219098941994371252, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: manager_owner
       value: 
