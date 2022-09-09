@@ -39,6 +39,10 @@ public class Model_manager : MonoBehaviour
         this.model_names[this.active_index].SetActive(true);
     }
 
+    public GameObject get_active_model(){
+        return this.model_names[this.active_index];
+    }
+
     public int getnumchild(){
         return  this.model_names.Count;
     }
