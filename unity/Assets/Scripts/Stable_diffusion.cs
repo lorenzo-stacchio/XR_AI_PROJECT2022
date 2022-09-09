@@ -9,7 +9,7 @@ using System.Text;
 using System;
 using UnityEngine.SceneManagement;
 using TMPro;
-
+using UnityEngine.UI;
 
 public class Stable_diffusion : MonoBehaviour
 {
@@ -138,7 +138,7 @@ public class Stable_diffusion : MonoBehaviour
 
                 //GameObject.Find("cube_brush").GetComponent<Renderer>().material.mainTexture = texture2D;
                 Sprite sprite2D = Sprite.Create(texture2D, new Rect(0.0f, 0.0f, texture2D.width, texture2D.height), new Vector2(0.5f, 0.5f), 100.0f);
-                GameObject.Find("Stable_diffusion").GetComponent<Renderer>().material.mainTexture = texture2D;
+                GameObject.Find("Stable_diffusion").GetComponent<Image>().sprite = sprite2D;
             }
         }
 
