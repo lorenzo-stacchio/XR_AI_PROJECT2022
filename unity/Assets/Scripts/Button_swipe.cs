@@ -16,8 +16,6 @@ public class Button_swipe : MonoBehaviour
     void Start(){
         this.actual = 0;
         Debug.Log("Manager" + this.manager_owner);
-
-
     }
 
     public void forward(){
