@@ -29,6 +29,8 @@ public class Model_manager : MonoBehaviour
 
     }
 
+   
+
     public void Set_active_model(int index){
         this.model_names[this.active_index].SetActive(false);
 

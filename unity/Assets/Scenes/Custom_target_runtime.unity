@@ -937,14 +937,6 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3769083269900314316, guid: 9a90c26e95eb88c45bb5d8836f77c456, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1653683933, guid: 9a90c26e95eb88c45bb5d8836f77c456, type: 3}
-    - target: {fileID: 3769083270445216540, guid: 9a90c26e95eb88c45bb5d8836f77c456, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 1653683933, guid: 9a90c26e95eb88c45bb5d8836f77c456, type: 3}
     - target: {fileID: 8575413572502792218, guid: 9a90c26e95eb88c45bb5d8836f77c456, type: 3}
       propertyPath: m_Name
       value: Stable_diffusion_game

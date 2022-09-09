@@ -18,15 +18,15 @@ public class Button_swipe : MonoBehaviour
         Debug.Log("Manager" + this.manager_owner);
     }
 
+
     public void forward(){
         Debug.Log("Manager" + this.manager_owner);
 
-        this.manager = this.manager_owner.GetComponent<Model_manager>();
+        this.manager = manager_owner.GetComponent<Model_manager>();
         this.elements = this.manager.getnumchild();
 
         this.actual = (this.actual +1) % this.elements;
         this.manager.Set_active_model(this.actual);
-        //forward to Model Manager
     }
 
 
