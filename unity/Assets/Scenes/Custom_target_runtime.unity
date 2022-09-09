@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -202,6 +202,35 @@ PrefabInstance:
     - target: {fileID: 4477933082746115694, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654076285814662941, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_text
+      value: "Vittoria alata, \r\nPompei, casa di Marco Fabio Rufo (ex)\r\nII Pompeian
+        style\r\nAt the moment in Museo Lanfranchi, Matera"
       objectReference: {fileID: 0}
     - target: {fileID: 8361944698520921256, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1649,6 +1678,36 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654076285814662941, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_text
+      value: "Maestro di Miglionico, met\xE0 XV secolo\r\nTesta dell\u2019Arcangelo
+        Gabriele\r\nChiesa rupestre di Madonna delle Tre Porte (ex)\r\nMuseo Lanfranchi,
+        Matera"
+      objectReference: {fileID: 0}
     - target: {fileID: 8361944698520921256, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1870,6 +1929,34 @@ PrefabInstance:
     - target: {fileID: 4477933082746115694, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654076285814662941, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_text
+      value: Not Available
       objectReference: {fileID: 0}
     - target: {fileID: 8361944698520921256, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2146,6 +2233,41 @@ PrefabInstance:
     - target: {fileID: 4477933082746115694, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5853404158285952512, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6654076285814662941, guid: c03d400bbf042464faca07b849c574dc, type: 3}
+      propertyPath: m_text
+      value: 'Pittore meridionale, fine XIII secolo
+
+        Testa di Santo monaco
+
+        Chiesa
+        rupestre di Madonna degli Angeli (ex)
+
+        Museo Lanfranchi, Matera'
       objectReference: {fileID: 0}
     - target: {fileID: 8361944698520921256, guid: c03d400bbf042464faca07b849c574dc, type: 3}
       propertyPath: m_AnchorMax.y
