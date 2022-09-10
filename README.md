@@ -13,3 +13,5 @@ Members:
 - [Gilda Manfredi](http://graphics.unibas.it/www/gmanfredi/);
 - [Lorenzo Stacchio](https://lorenzo-stacchio.github.io/);
 - [Manuele Veggi](https://www.linkedin.com/in/manuele-veggi/)
+
+Going to [dev branch](https://github.com/lorenzo-stacchio/XR_AI_PROJECT2022/tree/dev) for latest code version.
