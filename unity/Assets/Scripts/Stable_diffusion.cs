@@ -24,7 +24,7 @@ public class Stable_diffusion : MonoBehaviour
     private void Start()
     {
         this.called = false;
-        this.Token = "a2663f6b0ca76bf3bad79743eda1fc5b2eb6251d";
+        this.Token = "$CUSTOM_TOKEN";
         this.TimerNextFetch = 1;
         this.thresh_attempts = 5;
         //this.generate();
