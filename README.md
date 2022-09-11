@@ -32,5 +32,5 @@ To use this application you would need to create a [Vuforia account](https://lib
 
 # Stable-diffusion APIS
 
-To use the "draw with AI" function please create an account for [https://replicate.com/](https://replicate.com/). This will allows to get your [api_TOKEN](https://replicate.com/account) that you must use to replace the placeholder in the [Stable diffusion script](https://github.com/lorenzo-stacchio/XR_AI_PROJECT2022/blob/14ecaa63ede49a0e53bc0eaf2d7dbf03cee9f283/unity/Assets/Scripts/Stable_diffusion.cs#L27). 
+To use the "draw with AI" function please create an account for [https://replicate.com/](https://replicate.com/). This will allows to get your [api_TOKEN](https://replicate.com/account) that you must use to replace the placeholder in the [Stable diffusion script](https://github.com/lorenzo-stacchio/XR_AI_PROJECT2022/blob/main/unity/Assets/Scripts/Stable_diffusion.cs). 
 
