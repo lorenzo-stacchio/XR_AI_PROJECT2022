@@ -1,15 +1,15 @@
-# XR&AI Summer School 2022 - Final Project
+# XR&AI Summer School 2022 - Final Project (🏅 winner of [XR&AI](https://www.xrsalento.it/xrai-summer-school-2022/) final project competition award) 
 
 
 <table align="center" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
   <tr>
-    <td width="30%" height="30%">
+    <td width="20%" height="20%">
     <img width="100%" height="100%" align = "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Seal_of_the_University_of_Bologna.svg/640px-Seal_of_the_University_of_Bologna.svg.png" />
     </td>
-    <td width="30%" height="30%">
+    <td width="20%" height="20%">
         <img width="100%" height="100%" align = "center" src="https://www.xrsalento.it/wp-content/uploads/2022/04/XRAI_-300x218.jpg" />
     </td>
-    <td width="30%" height="30%">
+    <td width="20%" height="20%">
   <img width="100%" height="100%" align = "center" src="https://i2.wp.com/www.comincenter.it/wp-content/uploads/2014/09/LoGO-UNIVERSIT%C3%A0-nero.png?fit=360%2C366&ssl=1" />
     </td>
   </tr>
